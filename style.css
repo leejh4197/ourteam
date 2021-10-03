@@ -8,7 +8,7 @@ li {
 }
 
 body{
-    background-color: rgba(73, 111, 241, 0.56);
+    background-color: rgba(255, 255, 255, 0.56);
     color: gray;
 }
 
@@ -21,7 +21,7 @@ body{
 
 .team {
     justify-content: center;
-    display: flex;
+    display: flex; 
     align-items: center;
 }
 
